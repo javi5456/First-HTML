@@ -1,0 +1,16 @@
+body {
+    font-family: 'Chewy', cursive;
+    /* Otros estilos para el cuerpo de la página */
+  }
+  
+  p {
+    font-size: 16px;
+    /* Otros estilos para los párrafos */
+  }
+  
+  h1 {
+    font-family: 'Chewy', cursive;
+    font-size: 24px;
+    font-weight: bold;
+    /* Otros estilos para los encabezados */
+  }
